@@ -16,6 +16,3 @@ pip-delete-this-directory.txt
 
 # OS
 .DS_Store
-
-# Data (Dataset CSVs)
-data/*.csv
