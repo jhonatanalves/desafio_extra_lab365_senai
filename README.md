@@ -66,4 +66,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/eda_ncr_ride_bookings.ipynb
 ```
 
-3. Rode todas as células em sequência: **Kernel → Restart & Run All**
+3. Rode todas as células em sequência: **Kernel → Restart Kernel and Run All Cells**
